@@ -1,6 +1,14 @@
+
 # Ejercicios Android
 
-* A continuacion se muestran las capturas correspondientes a cada uno de los ejercicios presntes en este repositorio.
+* A continuación se muestran las capturas correspondientes a cada uno de los ejercicios presentes en este repositorio.
+
+## Autores ✒️
+
+_Este proyecto fue realizado por:_
+
+* **Andrés Proaño** - *EPN* - [Andres](https://github.com/Andres12309)
+* **Cristian Guamba** - *EPN* - [Cristian](https://github.com/Cristiangpbf)
 
 ```
 EJERCICIO 1 
