@@ -4,8 +4,5 @@
 
 ```
 Ejercicio 1
-![Mockup]
-(https://raw.githubusercontent.com/Cristiangpbf/EjerciciosAndroid/main/CapturasEjercicios/EjercicioUno1.jpg)
-```
-
 ![Mockup](https://raw.githubusercontent.com/Cristiangpbf/EjerciciosAndroid/main/CapturasEjercicios/EjercicioUno1.jpg)
+```
